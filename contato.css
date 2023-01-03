@@ -1,0 +1,47 @@
+body{
+    background:white;
+    font-size: 0.9em;
+
+
+}
+
+
+
+header, a  {
+    
+    font-size: 1.1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     color:antiquewhite;
+     text-align: center;
+     line-height: 2.1em;
+     text-decoration: none;
+     
+    
+}
+a:hover {
+
+    font-size: 1.1em;
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color:red;
+        text-align: center;
+        line-height: 2.1em;
+	    text-decoration: none;
+
+}
+
+ #du1{
+    border: 5px solid black;
+
+}
+
+h2 {
+   
+    background:url(https://i.pinimg.com/736x/e8/cd/6f/e8cd6fec479c5a8ca855be2c8f1e838d.jpg);
+    padding: 1px;
+    margin-left: 370px;
+    width: 35%;
+    border-radius: 15%;
+    color: antiquewhite;
+    float: top;
+    overflow: unset;
+}
